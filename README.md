@@ -11,3 +11,12 @@ This repository contains **code, examples, and notes** for my **Python tutorial 
 
 This repo acts as the **companion material** for the playlist — you can watch the video, then explore or run the code here.
 
+## How to use this repository
+1. Pick a video from the playlist
+2. Open the corresponding folder in this repo
+3. Read the README inside that folder
+4. Run the code examples on your machine
+
+## Folder structure
+
+
