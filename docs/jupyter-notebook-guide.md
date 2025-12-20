@@ -37,8 +37,8 @@ Whether you are new to Jupyter or have used it before, this tutorial will help y
 
 ## 📓 Notebook Used in This Video
 
-The exact notebook used in the tutorial is available here:https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/03__jupyter_notebook_guide/notebook/jupyter_guide.ipynb
+The exact notebook used in the tutorial is available [here:](https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/03__jupyter_notebook_guide/notebook/jupyter_guide.ipynb)
 
 ## 🖼️ Thumbnail
 
-The YouTube thumbnail for this video is stored in:https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/03__jupyter_notebook_guide/thumbnail
+The YouTube thumbnail for this video is stored [in:](https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/03__jupyter_notebook_guide/thumbnail)
