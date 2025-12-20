@@ -3,7 +3,7 @@
 This folder contains the **notebook, and supporting materials** for my YouTube video on **Jupyter Notebook**.
 
 🎥 **Watch the full video here:**  
-👉 https://youtu.be/MAYzuEpTqv0
+👉 [](https://youtu.be/MAYzuEpTqv0)
 
 ---
 
