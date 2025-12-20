@@ -43,3 +43,5 @@ The exact notebook used in the tutorial is available here:https://github.com/AKS
 
 The YouTube thumbnail for this video is stored in:https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/03__jupyter_notebook_guide/thumbnail
 
+![Jupyter Notebook Thumbnail](thumbnail/jupyter_thumbnail.png)
+
