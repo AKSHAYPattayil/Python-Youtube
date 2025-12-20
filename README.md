@@ -19,6 +19,4 @@ This repo acts as the **companion material** for the playlist — you can watch 
 3. Read the README inside that folder
 4. Run the code examples on your machine
 
-## Folder structure
-
 
