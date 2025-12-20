@@ -2,7 +2,7 @@
 Code, slides, and notes for my Python YouTube channel
 
 📘 **Course Website (Notes & Slides):**  
-https://akshaypattayil.github.io/Python-Youtube/
+👉 https://akshaypattayil.github.io/Python-Youtube/
 
 🎥 **Python Playlist:**  
 👉 https://www.youtube.com/watch?v=zUEKV-M8uFY&list=PLwFIcsKpTgVaZWu9MXwiDT33tXDEZPeJY
