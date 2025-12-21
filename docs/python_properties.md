@@ -5,7 +5,7 @@ This folder contains the learning materials for my YouTube video on the **essent
 🎥 **Watch the full video (Malayalam):**  
 [Python Essentials: A Comprehensive Overview of Key Properties](https://youtu.be/3N3EzcQAqiI)
 
-[Notebook used](https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/04__py_basic_properties/notebook)
+- [Notebook used](https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/04__py_basic_properties/notebook)
 ---
 
 ## 📌 About This Tutorial
