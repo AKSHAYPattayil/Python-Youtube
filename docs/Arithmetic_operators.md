@@ -46,7 +46,7 @@ This lesson is demonstrated using a Jupyter Notebook so you can:
 - Experiment with expressions
 - See how Python evaluates formulas step by step
 
-(You can find the notebook for this lesson in this folder.)
+[You can find the notebook for this lesson in this folder.](https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/06_Arithmetic_Operators%26PEMDAS)
 
 ---
 
