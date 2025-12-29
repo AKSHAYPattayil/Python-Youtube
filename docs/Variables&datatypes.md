@@ -56,3 +56,5 @@ No prior programming knowledge is required.
 
 
 This tutorial is part of a **step-by-step Python playlist**, designed to help beginners build strong fundamentals.
+
+[You can find the notebook for this lesson in this folder](https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/05__variables%26datatypes)
