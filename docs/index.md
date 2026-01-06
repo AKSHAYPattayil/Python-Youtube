@@ -6,4 +6,6 @@
 - [Basic Properties of Python](python_properties.md)
 - [Variables and Data types](Variables&datatypes.md)
 - [Arithmetic Operators & PEMDAS](Arithmetic_operators.md)
+- [Change Jupyter theme](jupyter_theme.md)
+- [Python Strings](python_strings.md)
 
