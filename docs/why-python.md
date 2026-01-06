@@ -30,4 +30,4 @@ Just curiosity and consistency 🙂
 
 ## What’s next?
 
-👉 Continue to **Installing Python & Jupyter Notebook**
+👉 Continue to [Installing Python & Jupyter Notebook](https://youtu.be/zUEKV-M8uFY)
