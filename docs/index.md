@@ -8,4 +8,6 @@
 - [Arithmetic Operators & PEMDAS](Arithmetic_operators.md)
 - [Change Jupyter theme](jupyter_theme.md)
 - [Python Strings](python_strings.md)
+- [Python Practice questions 1](python_practice_questions1.md)
+- [Python Data Structures](python_datastructures.md)
 
