@@ -1,54 +1,76 @@
-# 🗂️ Defining Data Structures in Python – A Beginner’s Guide
+# 📋 Mastering Python Lists – A Comprehensive Guide for Beginners
 
-This folder contains the learning materials for my YouTube video on **data structures in Python**.
+This folder contains the learning materials for my YouTube video on **Python lists**, one of the most important data structures in Python.
 
-🎥 **Watch the full video :**  
-[Defining Data Structures in Python | A Beginner’s Guide](https://youtu.be/TTF13es08JQ)
+🎥 **Watch the full video (Malayalam):**  
+[Mastering Python Lists: A Comprehensive Guide for Beginners](https://youtu.be/zCsyC6virYI)
 
 ---
 
 ## 📌 About This Tutorial
 
-Data structures are the **building blocks of programming**. They allow us to store, organize, and manage data efficiently so that our programs can work faster and smarter.
+Python lists are one of the most powerful and widely used data structures in Python.  
+They allow you to store, modify, and organize multiple values in a single variable.
 
-In this video, we begin with a **simple and clear definition of data structures**, explaining what they are and why they are so important in computer science and programming. Then we explore some of the most commonly used data structures in Python.
+In this video, we explore **Python lists in depth**, starting from the basics and gradually moving to more advanced operations such as slicing, membership checks, adding and removing elements, and sorting.
 
-This tutorial provides a **strong foundation** for anyone who wants to write better and more organized Python code.
+All concepts are demonstrated using **Jupyter Notebook**, giving you a clear and practical understanding of how lists work in real programs.
 
 ---
 
 ## 🧠 What You’ll Learn
 
-- What data structures are
-- Why data structures are important
-- How data is organized in programs
-- Common data structures in Python:
-  - Lists
-  - Dictionaries
-  - Tuples
-- When and why to use each data structure
+- Creating Python lists
+- Nested lists
+- Indexing and negative indexing
+- Slicing lists
+- Membership operators (`in`, `not in`)
+- Changing elements in a list
+- Adding elements using:
+  - `append()`
+  - `extend()`
+  - `insert()`
+- List concatenation
+- Removing elements using:
+  - `remove()`
+  - `pop()`
+  - `del`
+- Sorting lists using:
+  - `sort()`
+  - `sorted()`
+
+---
+
+## 📓 Jupyter Notebook
+
+All examples in this video are demonstrated using **Jupyter Notebook**, so you can:
+- Run code interactively
+- Experiment with list operations
+- Practice each concept as you learn
+
+[The notebook for this lesson is available in this folder](https://github.com/AKSHAYPattayil/Python-Youtube/tree/main/11_python_lists)
 
 ---
 
 ## 🎯 Who This Video Is For
 
-- Beginners learning Python
-- Students new to computer science
-- Anyone confused about how data is stored in programs
+- Python beginners
+- Students learning data structures
+- Anyone working with lists in Python
 - Learners preparing for data science, AI, or software development
 
-No prior experience with data structures is required.
+No prior experience is required.
 
 ---
 
-## 🚀 Why Data Structures Matter
+## 🚀 Why Python Lists Matter
 
-Every Python program uses data.  
-Understanding how that data is stored and organized helps you:
-- Write cleaner code
-- Improve performance
-- Build more complex programs
+Lists are used everywhere in Python:
+- Storing data
+- Processing input
+- Working with files
+- Building AI and data science applications
 
-This video gives you the **conceptual foundation** you need before diving deeper into Python collections and algorithms.
+Mastering lists is a **major milestone** in becoming confident with Python.
 
 ---
