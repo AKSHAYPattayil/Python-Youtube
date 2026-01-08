@@ -10,4 +10,5 @@
 - [Python Strings](python_strings.md)
 - [Python Practice questions 1](python_practice_questions1.md)
 - [Python Data Structures](python_datastructures.md)
+- [Python Lists](python_lists.md)
 
