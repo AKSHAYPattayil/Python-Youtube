@@ -61,3 +61,4 @@ With Jupyter Themes, you can turn Jupyter Notebook into a workspace that truly m
 
 ---
 
+[You can find the notebook for this lesson in this folder.]
