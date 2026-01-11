@@ -11,5 +11,6 @@
 - [Python Practice questions 1](python_practice_questions1.md)
 - [Python Data Structures](python_datastructures.md)
 - [Python Lists](python_lists.md)
-- [ Shallow Copy VS Deep Copy](shallow_vs_deep.md)
+- [Shallow Copy VS Deep Copy](shallow_vs_deep.md)
+- [Python Tuples](python_tuples.md)
 
