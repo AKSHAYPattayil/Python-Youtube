@@ -13,4 +13,5 @@
 - [Python Lists](python_lists.md)
 - [Shallow Copy VS Deep Copy](shallow_vs_deep.md)
 - [Python Tuples](python_tuples.md)
+- [Python Sets](python_sets.md)
 
