@@ -73,9 +73,6 @@ Mastering sets will make your Python code **cleaner and more powerful**.
 
 This lesson is part of the **Introduction to Python Programming** playlist.
 
-🎥 **Playlist Link:**  
-https://www.youtube.com/watch?v=zUEKV-M8uFY&list=PLwFIcsKpTgVaZWu9MXwiDT33tXDEZPeJY
-
 📘 **Course Website (Notes & Explanations):**  
 https://akshaypattayil.github.io/Python-Youtube/
 
